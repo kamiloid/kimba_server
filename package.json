@@ -1,0 +1,17 @@
+{
+  "name": "kimba_app",
+  "version": "1.0.0",
+  "description": "Kimba app",
+  "main": "kimba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ejs": "~2.6.1",
+    "md5": "^2.3.0",
+    "mongodb": "^4.0.0"
+  }
+}
